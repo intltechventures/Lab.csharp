@@ -3,7 +3,7 @@
 Microsoft General Documentation References
 * https://docs.microsoft.com/en-us/enterprise-mobility/
 * [MSDN Library] (https://msdn.microsoft.com/en-us/library/ms123401.aspx)
-
+	* https://github.com/Microsoft/Azure-RMSDocs
 
 C# References
 * [Getting Started with C#] (https://msdn.microsoft.com/en-us/library/a72418yk.aspx)
