@@ -1,6 +1,6 @@
 # Lab.csharp
 
-References
+C# References
 * [Getting Started with C#] (https://msdn.microsoft.com/en-us/library/a72418yk.aspx)
 * [C# Programming Guide] (https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)
 * [C# Reference] (https://msdn.microsoft.com/en-us/library/618ayhy6.aspx)
@@ -10,6 +10,8 @@ References
 * [Visual Studio 2015 C#] (https://msdn.microsoft.com/en-us/library/kx37x362.aspx)
 * [MSDN Library] (https://msdn.microsoft.com/en-us/library/ms123401.aspx)
 
+WCF References
+* [Windows Communicationi Foundation] (https://msdn.microsoft.com/en-us/library/dd456779.aspx)
 
 Useful Articles
 * http://www.codeproject.com/?cat=3
