@@ -17,6 +17,7 @@ C# References
 	* [Data and Modeling in the .NET Framework] (https://msdn.microsoft.com/en-us/library/951h6we4%28v=vs.110%29.aspx)
 	* [Developing Web Applications with ASP.NET] (https://msdn.microsoft.com/en-us/library/bb400852%28v=vs.110%29.aspx)
 	* [Windows Communication Foundation] (https://msdn.microsoft.com/en-us/library/dd456779.aspx)
+	* [Network Programming in the .NET Framework] (https://msdn.microsoft.com/en-us/library/bb400852%28v=vs.110%29.aspx)
 	* [Parallel Processing and Concurrency in the .NET Framework] (https://msdn.microsoft.com/en-us/library/hh156548%28v=vs.110%29.aspx)
 	* [Dynamic Programming in the .NET Framework] (https://msdn.microsoft.com/en-us/library/hh156524%28v=vs.110%29.aspx)
 	* [Developing Windows Service Applications] (https://msdn.microsoft.com/en-us/library/y817hyb6%28v=vs.110%29.aspx)
