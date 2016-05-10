@@ -12,12 +12,15 @@ C# References
 
 
 [.NET Framework 4.6 and 4.5 References] (https://msdn.microsoft.com/en-us/library/w0x726c2%28v=vs.110%29.aspx)
-* [.NET Framework Application Essentials] (https://msdn.microsoft.com/en-us/library/ms172157%28v=vs.110%29.aspx)
-* [Data and Modeling in the .NET Framework] (https://msdn.microsoft.com/en-us/library/951h6we4%28v=vs.110%29.aspx)
-* [Windows Communicationi Foundation] (https://msdn.microsoft.com/en-us/library/dd456779.aspx)
-* [Parallel Processing and Concurrency in the .NET Framework] (https://msdn.microsoft.com/en-us/library/hh156548%28v=vs.110%29.aspx)
-* [Developing Windows Service Applications] (https://msdn.microsoft.com/en-us/library/y817hyb6%28v=vs.110%29.aspx)
-* [Security in the .NET Framework] (https://msdn.microsoft.com/en-us/library/fkytk30f%28v=vs.110%29.aspx)
+* [.NET Framework Development Guide] (https://msdn.microsoft.com/en-us/library/hh156542%28v=vs.110%29.aspx)
+	* [.NET Framework Application Essentials] (https://msdn.microsoft.com/en-us/library/ms172157%28v=vs.110%29.aspx)
+	* [Data and Modeling in the .NET Framework] (https://msdn.microsoft.com/en-us/library/951h6we4%28v=vs.110%29.aspx)
+	* [Windows Communicationi Foundation] (https://msdn.microsoft.com/en-us/library/dd456779.aspx)
+	* [Parallel Processing and Concurrency in the .NET Framework] (https://msdn.microsoft.com/en-us/library/hh156548%28v=vs.110%29.aspx)
+	* [Dynamic Programming in the .NET Framework] (https://msdn.microsoft.com/en-us/library/hh156524%28v=vs.110%29.aspx)
+	* [Developing Windows Service Applications] (https://msdn.microsoft.com/en-us/library/y817hyb6%28v=vs.110%29.aspx)
+	* [Security in the .NET Framework] (https://msdn.microsoft.com/en-us/library/fkytk30f%28v=vs.110%29.aspx)
+
 
 Useful Articles / How-To Resources
 * http://www.codeproject.com/?cat=3
