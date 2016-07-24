@@ -28,5 +28,13 @@ C# References
 	* [Security in the .NET Framework] (https://msdn.microsoft.com/en-us/library/fkytk30f%28v=vs.110%29.aspx)
 
 
+Software Tools
+* [Microsoft .NET Framework Repair Tool] (https://www.microsoft.com/en-us/download/details.aspx?id=30135)
+
+
+Interesting Github Projects
+* https://github.com/akkadotnet/Wire.git
+
+
 Useful Articles / How-To Resources
 * http://www.codeproject.com/?cat=3
