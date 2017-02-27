@@ -3,7 +3,7 @@
 Microsoft General Documentation References
 * https://docs.microsoft.com/en-us/enterprise-mobility/
 * [MSDN Library] (https://msdn.microsoft.com/en-us/library/ms123401.aspx)
-	* https://github.com/Microsoft/Azure-RMSDocs
+  * https://github.com/Microsoft/Azure-RMSDocs
 
 C# References
 * [Getting Started with C#] (https://msdn.microsoft.com/en-us/library/a72418yk.aspx)
@@ -17,15 +17,16 @@ C# References
 
 [.NET Framework 4.6 and 4.5 References] (https://msdn.microsoft.com/en-us/library/w0x726c2%28v=vs.110%29.aspx)
 * [.NET Framework Development Guide] (https://msdn.microsoft.com/en-us/library/hh156542%28v=vs.110%29.aspx)
-	* [.NET Framework Application Essentials] (https://msdn.microsoft.com/en-us/library/ms172157%28v=vs.110%29.aspx)
-	* [Data and Modeling in the .NET Framework] (https://msdn.microsoft.com/en-us/library/951h6we4%28v=vs.110%29.aspx)
-	* [Developing Web Applications with ASP.NET] (https://msdn.microsoft.com/en-us/library/bb400852%28v=vs.110%29.aspx)
-	* [Windows Communication Foundation] (https://msdn.microsoft.com/en-us/library/dd456779.aspx)
-	* [Network Programming in the .NET Framework] (https://msdn.microsoft.com/en-us/library/bb400852%28v=vs.110%29.aspx)
-	* [Parallel Processing and Concurrency in the .NET Framework] (https://msdn.microsoft.com/en-us/library/hh156548%28v=vs.110%29.aspx)
-	* [Dynamic Programming in the .NET Framework] (https://msdn.microsoft.com/en-us/library/hh156524%28v=vs.110%29.aspx)
-	* [Developing Windows Service Applications] (https://msdn.microsoft.com/en-us/library/y817hyb6%28v=vs.110%29.aspx)
-	* [Security in the .NET Framework] (https://msdn.microsoft.com/en-us/library/fkytk30f%28v=vs.110%29.aspx)
+  * [.NET Framework Application Essentials] (https://msdn.microsoft.com/en-us/library/ms172157%28v=vs.110%29.aspx)
+  * [Data and Modeling in the .NET Framework] (https://msdn.microsoft.com/en-us/library/951h6we4%28v=vs.110%29.aspx)
+  * [Developing Web Applications with ASP.NET] (https://msdn.microsoft.com/en-us/library/bb400852%28v=vs.110%29.aspx)
+  * [Windows Communication Foundation] (https://msdn.microsoft.com/en-us/library/dd456779.aspx)
+  * [Network Programming in the .NET Framework] (https://msdn.microsoft.com/en-us/library/bb400852%28v=vs.110%29.aspx)
+  * [Parallel Processing and Concurrency in the .NET Framework] (https://msdn.microsoft.com/en-us/library/hh156548%28v=vs.110%29.aspx)
+  * [Dynamic Programming in the .NET Framework] (https://msdn.microsoft.com/en-us/library/hh156524%28v=vs.110%29.aspx)
+  * [Developing Windows Service Applications] (https://msdn.microsoft.com/en-us/library/y817hyb6%28v=vs.110%29.aspx)
+  * [Security in the .NET Framework] (https://msdn.microsoft.com/en-us/library/fkytk30f%28v=vs.110%29.aspx)
+  * [Framework Design Guidelines] (https://msdn.microsoft.com/en-us/library/ms229042(v=vs.110).aspx)
 
 
 Software Tools
