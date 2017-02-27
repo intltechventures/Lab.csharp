@@ -38,3 +38,9 @@ Interesting Github Projects
 
 Useful Articles / How-To Resources
 * http://www.codeproject.com/?cat=3
+
+
+
+Interesting Articles
+* https://dev.to/suhas_chatekar/how-do-you-choose-between-an-interface-and-abstract-class
+  * https://msdn.microsoft.com/en-gb/library/ms229013(v=vs.100).aspx
