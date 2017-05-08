@@ -43,5 +43,8 @@ Useful Articles / How-To Resources
 
 
 Interesting Articles
-* https://dev.to/suhas_chatekar/how-do-you-choose-between-an-interface-and-abstract-class
-  * https://msdn.microsoft.com/en-gb/library/ms229013(v=vs.100).aspx
+* 2017
+  * https://github.com/Microsoft/dotnet/blob/master/releases/net47/dotnet47-changes.md
+* Prior
+  * https://dev.to/suhas_chatekar/how-do-you-choose-between-an-interface-and-abstract-class
+    * https://msdn.microsoft.com/en-gb/library/ms229013(v=vs.100).aspx
