@@ -15,6 +15,11 @@ C# References
 * [Visual Studio 2015 C#] (https://msdn.microsoft.com/en-us/library/kx37x362.aspx)
 
 
+Visual Studio
+* https://www.visualstudio.com/downloads/ 
+
+
+
 [.NET Framework 4.6 and 4.5 References] (https://msdn.microsoft.com/en-us/library/w0x726c2%28v=vs.110%29.aspx)
 * [.NET Framework Development Guide] (https://msdn.microsoft.com/en-us/library/hh156542%28v=vs.110%29.aspx)
   * [.NET Framework Application Essentials] (https://msdn.microsoft.com/en-us/library/ms172157%28v=vs.110%29.aspx)
@@ -44,6 +49,8 @@ Useful Articles / How-To Resources
 
 Interesting Articles
 * 2017
+  * https://www.infoq.com/news/2017/08/vs2017-15.3-release
+  * https://www.infoq.com/news/2017/08/netcore2-sdk
   * https://github.com/Microsoft/dotnet/blob/master/releases/net47/dotnet47-changes.md
 * Prior
   * https://dev.to/suhas_chatekar/how-do-you-choose-between-an-interface-and-abstract-class
