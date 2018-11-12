@@ -93,6 +93,7 @@ aka Policy Pattern
   * https://dotnetfreakblog.wordpress.com/2013/11/10/strategy-design-pattern-using-c/
 * 2012 
   * https://visualstudiomagazine.com/articles/2012/02/22/strategy-pattern-in-net.aspx
+  * https://www.productivecsharp.com/2012/09/strategy-pattern-basic-calculator/
 * 2010
   * https://medium.com/@ivorobioff/refactoring-an-ugly-switch-statement-without-strategy-pattern-9398cd651f62
 * 2009 
