@@ -1,13 +1,15 @@
-# Lab.csharp
+Lab.csharp
+====
 
-Microsoft General Documentation References
+
+### Microsoft General Documentation References
 * https://docs.microsoft.com/en-us/enterprise-mobility/
 * [MSDN Library](https://msdn.microsoft.com/en-us/library/ms123401.aspx)
   * https://github.com/Microsoft/Azure-RMSDocs
 * [MSDN Library](https://msdn.microsoft.com/library)
 
 
-C# References
+### C# References
 * [Getting Started with C#](https://msdn.microsoft.com/en-us/library/a72418yk.aspx)
 * [C# Programming Guide](https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)
 * [C# Reference](https://msdn.microsoft.com/en-us/library/618ayhy6.aspx)
@@ -17,7 +19,7 @@ C# References
 * [Visual Studio 2015 C#](https://msdn.microsoft.com/en-us/library/kx37x362.aspx)
 
 
-Visual Studio
+### Visual Studio
 * https://www.visualstudio.com/downloads/ 
 
 
@@ -36,20 +38,26 @@ Visual Studio
   * [Framework Design Guidelines](https://msdn.microsoft.com/en-us/library/ms229042(v=vs.110).aspx)
 
 
-Software Tools
+### Software Tools
 * [Microsoft .NET Framework Repair Tool] (https://www.microsoft.com/en-us/download/details.aspx?id=30135)
 
 
-Interesting Github Projects
+
+### code.msdn.microsoft.com
+* https://code.msdn.microsoft.com/
+
+
+
+### Interesting Github Projects
 * https://github.com/akkadotnet/Wire.git
 
 
-Useful Articles / How-To Resources
+#### Useful Articles / How-To Resources
 * http://www.codeproject.com/?cat=3
 
 
 
-Interesting Articles
+### Interesting Articles
 * 2017
   * https://www.infoq.com/news/2017/08/vs2017-15.3-release
   * https://www.infoq.com/news/2017/08/netcore2-sdk
