@@ -2,7 +2,7 @@
 C# Static Code Analysis Tool Resources
 ====
 
-Commercial Solutions
+### Commercial Solutions
 * [SoarC#](https://www.sonarsource.com/products/codeanalyzers/sonarcsharp.html)
   * "SonarSource delivers what is probably the best static code analyzer you can find on the market for C#. Based on Microsoft Roslyn compiler front-end, it uses the most advanced techniques (pattern matching, dataflow analysis) to analyze code and find code smells, bugs and security vulnerabilities. As for any product we develop at SonarSource, it was built on the following principles: depth, accuracy and speed."
     * Standards:
@@ -35,14 +35,43 @@ Commercial Solutions
 
 
 
-
-
-
+### Potential Candidates (further evaluation needed...)
+* http://www.nitriq.com/
+* http://msquaredtechnologies.com/
+  * (out-of-date? several broken links on their web site...)
+  * Use Cases:
+    * "Determine source code LOC, SLOC, KSLOC for C, C++, Java and C#"
+    * "Measure software metrics for each baseline and determine metrics differentials between baselines"
+    * "Baseline code metrics are captured independent of metrics differentials so history is preserved"
+    * "Report CMMI, ISO metrics for code compliance audit"
+    * "Perform source code static anaysis, best used for code peer reviews"
+    * "Remove tabs, convert from DOS to UNIX format, and pretty print code"
+    * "Measure and analyze source code for out sourced or subcontacted code"
+    * "Measure cyclomatic code complexity and analyze interface complexity for maintenance"
+* http://www.semanticdesigns.com/Products/Metrics/CSharpMetrics.html
+  * Metrics computed at module level:
+    * Source Lines of Code (SLOC)
+    * Noncommented Source Lines of Code
+    * Comment Lines
+    * Number of Methods
+    * Decision Density
+    * Cyclomatic Complexity
+    * Maximum loop nesting
+    * Maximum conditional nesting
+    * Halstead measures (volume, difficulty, effort, operators and operands)
+    * Software Engineering Institute (SEI) Maintainability Index
+    * Class and File counts
+  * Worst-case nesting metrics pinpointed to specific file/line
+  * Summaries per class/file
 
 
 
 
 ### Github Resources
+* [.NET Compiler Platform ("Roslyn")](https://github.com/dotnet/roslyn)
+  * https://docs.microsoft.com/en-us/dotnet/csharp/roslyn-sdk/ 
+  * [C# and Visual Basic - Use Roslyn to Write a Live Code Analyzer for Your API](https://msdn.microsoft.com/en-us/magazine/dn879356)
+  * [C# - Adding a Code Fix to Your Roslyn Analyzer](https://msdn.microsoft.com/en-us/magazine/dn904670.aspx) 
 * Awesome List: Static analysis tools for all programming languages
   * https://matthias-endler.de/awesome-static-analysis/
   * https://github.com/mre/awesome-static-analysis
