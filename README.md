@@ -1,5 +1,6 @@
 Lab.csharp
 ====
+My lab for exploring C# 
 
 
 ### Microsoft General Documentation References
@@ -17,6 +18,17 @@ Lab.csharp
 * [Welcom to Visual Studio 2015](https://msdn.microsoft.com/en-us/library/dd831853.aspx)
 * [Using the Visual Studio Development Environment for C#](https://msdn.microsoft.com/en-us/library/ms173063.aspx)
 * [Visual Studio 2015 C#](https://msdn.microsoft.com/en-us/library/kx37x362.aspx)
+
+
+### C# Related Community Forums
+* https://social.msdn.microsoft.com/Forums/vstudio/en-US/home?forum=csharpgeneral
+* https://forums.asp.net/37.aspx/1?C+
+* https://www.codeproject.com/Forums/1649/Csharp.aspx
+* http://forums.codeguru.com/forumdisplay.php?11-C-Sharp-Programming
+* https://www.c-sharpcorner.com/
+* https://stackoverflow.com/questions/tagged/c%23
+* http://www.csharpforums.net/
+
 
 
 ### Visual Studio
