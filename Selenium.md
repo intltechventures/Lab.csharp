@@ -27,6 +27,13 @@ C# Selenium Testing Resources
   * https://docs.katalon.com/katalon-recorder/docs/overview.html
     * https://docs.katalon.com/katalon-studio/docs/index.html
     * [Video: Working with Katalon Recorder – A complete replacement of Selenium IDE](https://docs.katalon.com/katalon-studio/videos/working_with_katalon_recorder.html)
+  * [Katalon Automation Recorder Quickstart](https://www.katalon.com/resources-center/blog/katalon-automation-recorder/)
+  * [Using Katalon Studio in CI-CD Pipeline with Microsoft VSTS](https://forum.katalon.com/t/using-katalon-studio-in-ci-cd-pipeline-with-microsoft-vsts/11533)
+  * [DZone: Execute Automated Testing in 3 Steps With Katalon Automation Recorder](https://dzone.com/articles/execute-automation-testing-in-3-steps)
+  * [DZone: Creating Test Cases Using the Web Recorder Utility With Katalon Studio](https://dzone.com/articles/creating-test-case-using-web-recorder-utility-with)
+  * [DZone: What's New in Katalon Studio 5.5: Advanced Web Recorder and More](https://dzone.com/articles/whats-new-in-katalon-studio-55-advanced-web-record)
+
+
 
 
 
