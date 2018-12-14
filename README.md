@@ -8,6 +8,7 @@ My lab for exploring C#
 * [MSDN Library](https://msdn.microsoft.com/en-us/library/ms123401.aspx)
   * https://github.com/Microsoft/Azure-RMSDocs
 * [MSDN Library](https://msdn.microsoft.com/library)
+* [C# Coding Conventions (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
 
 
 ### C# References
