@@ -8,17 +8,18 @@ My lab for exploring C#
 * [MSDN Library](https://msdn.microsoft.com/en-us/library/ms123401.aspx)
   * https://github.com/Microsoft/Azure-RMSDocs
 * [MSDN Library](https://msdn.microsoft.com/library)
-* [C# Coding Conventions (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
-
 
 ### C# References
 * [Getting Started with C#](https://msdn.microsoft.com/en-us/library/a72418yk.aspx)
+* [C# Programming Guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/index)
 * [C# Programming Guide](https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)
+* [C# Reference](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/)
 * [C# Reference](https://msdn.microsoft.com/en-us/library/618ayhy6.aspx)
 * [Command-line Building With csc.exe](https://msdn.microsoft.com/en-us/library/78f4aasd.aspx)
-* [Welcom to Visual Studio 2015](https://msdn.microsoft.com/en-us/library/dd831853.aspx)
 * [Using the Visual Studio Development Environment for C#](https://msdn.microsoft.com/en-us/library/ms173063.aspx)
-* [Visual Studio 2015 C#](https://msdn.microsoft.com/en-us/library/kx37x362.aspx)
+* [C# Coding Conventions (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
+* [The history of C#](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history)
+
 
 
 ### C# Related Community Forums
@@ -36,7 +37,16 @@ My lab for exploring C#
 * https://www.visualstudio.com/downloads/ 
 
 
+### Visual Studio 2015
+* [Welcom to Visual Studio 2015](https://msdn.microsoft.com/en-us/library/dd831853.aspx)
+* [Visual Studio 2015 C#](https://msdn.microsoft.com/en-us/library/kx37x362.aspx)
 
+
+### Visual Studio 2017
+
+
+
+### .NET Library/Framework References 
 [.NET Framework 4.6 and 4.5 References](https://msdn.microsoft.com/en-us/library/w0x726c2%28v=vs.110%29.aspx)
 * [.NET Framework Development Guide](https://msdn.microsoft.com/en-us/library/hh156542%28v=vs.110%29.aspx)
   * [.NET Framework Application Essentials](https://msdn.microsoft.com/en-us/library/ms172157%28v=vs.110%29.aspx)
@@ -67,10 +77,12 @@ My lab for exploring C#
 
 #### Useful Articles / How-To Resources
 * http://www.codeproject.com/?cat=3
-
+* https://www.dotnetcurry.com/
 
 
 ### Interesting Articles
+* 2019 
+* 2018
 * 2017
   * https://www.infoq.com/news/2017/08/vs2017-15.3-release
   * https://www.infoq.com/news/2017/08/netcore2-sdk
