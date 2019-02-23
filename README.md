@@ -9,7 +9,10 @@ My lab for exploring C#
   * https://github.com/Microsoft/Azure-RMSDocs
 * [MSDN Library](https://msdn.microsoft.com/library)
 
+
+
 ### C# References
+* [C# Guide](https://docs.microsoft.com/en-us/dotnet/csharp/)
 * [Getting Started with C#](https://msdn.microsoft.com/en-us/library/a72418yk.aspx)
 * [C# Programming Guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/index)
 * [C# Programming Guide](https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)
@@ -35,14 +38,6 @@ My lab for exploring C#
 
 ### Visual Studio
 * https://www.visualstudio.com/downloads/ 
-
-
-### Visual Studio 2015
-* [Welcom to Visual Studio 2015](https://msdn.microsoft.com/en-us/library/dd831853.aspx)
-* [Visual Studio 2015 C#](https://msdn.microsoft.com/en-us/library/kx37x362.aspx)
-
-
-### Visual Studio 2017
 
 
 
