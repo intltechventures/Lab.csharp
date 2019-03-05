@@ -3,7 +3,7 @@ C# Static Code Analysis Tool Resources
 ====
 
 ### Commercial Solutions
-* [SoarC#](https://www.sonarsource.com/products/codeanalyzers/sonarcsharp.html)
+* [SonarC#](https://www.sonarsource.com/products/codeanalyzers/sonarcsharp.html)
   * "SonarSource delivers what is probably the best static code analyzer you can find on the market for C#. Based on Microsoft Roslyn compiler front-end, it uses the most advanced techniques (pattern matching, dataflow analysis) to analyze code and find code smells, bugs and security vulnerabilities. As for any product we develop at SonarSource, it was built on the following principles: depth, accuracy and speed."
     * Standards:
       * CWE
@@ -24,6 +24,7 @@ C# Static Code Analysis Tool Resources
     * Import of unit test results from VSTest, MSTest, NUnit and xUnit
     * Import of test coverage reports from Visual Studio Code Coverage, dotCover, OpenCover and NCover 3.
     * Support for custom rules
+
 * [SonarLint](https://www.sonarlint.org/visualstudio/)
   * https://marketplace.visualstudio.com/items?itemName=SonarSource.SonarLintforVisualStudio2017
   * "Roslyn based static code analysis: Find and instantly fix nasty bugs and code smells in C#, VB.Net, C, C++ and JS."
@@ -32,6 +33,12 @@ C# Static Code Analysis Tool Resources
   * Deep code analysis algorithms using pattern matching and dataflow analysis
   * Hundreds of rules, and growing.
   * Comes with explanations to resolve detected issues.
+
+* [WhiteSource Bolt for Azure DevOps](https://bolt.whitesourcesoftware.com/azure/)
+  * "Free extension to secure open source components in Azure DevOps"
+  * "Detect vulnerable components & see fix recommendations"
+  * "Discover all used open source licenses in your project"
+  * "Get a detailed BoM with all transitive dependencies"
 
 
 
