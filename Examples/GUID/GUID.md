@@ -5,6 +5,8 @@ GUID Resources, C# Related documentation, other interesting citations, and examp
 ### References
 * https://en.wikipedia.org/wiki/Universally_unique_identifier
   * "A universally unique identifier (UUID) is a 128-bit number used to identify information in computer systems. The term globally unique identifier (GUID) is also used. "
+* [A brief history of the UUID](https://segment.com/blog/a-brief-history-of-the-uuid/)
+
 
 * [RFC-4122: A Universally Unique IDentifier (UUID) URN Namespace](https://tools.ietf.org/html/rfc4122)
   * See Section 4.1.3 [(source)](https://social.msdn.microsoft.com/Forums/vstudio/en-US/4956142a-0a5d-4f1e-b102-93a3eea1b5d5/does-guidnewguid-produce-uuid-version-4-according-to-rfc4122?forum=netfxbcl)
