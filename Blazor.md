@@ -11,12 +11,12 @@
 - https://devblogs.microsoft.com/aspnet/blazor-now-in-official-preview/
   + Get the Blazor preview
     * To get started with the Blazor preview install the following:
-      * [.NET Core 3.0 Preview 4 SDK (3.0.100-preview4-011223)](https://dotnet.microsoft.com/download/dotnet-core/3.0)
+      * [.NET Core 3.0 Preview 4 SDK](https://dotnet.microsoft.com/download/dotnet-core/3.0) (3.0.100-preview4-011223)
 
     * The Blazor templates on the command-line:
       * ```	dotnet new -i Microsoft.AspNetCore.Blazor.Templates::3.0.0-preview4-19216-03```
 
-    * "[Visual Studio 2019 Preview](https://visualstudio.microsoft.com/vs/preview/) with the ASP.NET and web development workload selected as well as the latest Blazor extension from the Visual Studio Marketplace, or Visual Studio Code with the latest C# extension (now with Blazor support!)."
+    * "[Visual Studio 2019 Preview](https://visualstudio.microsoft.com/vs/preview/) with the ASP.NET and web development workload selected as well as the latest [Blazor extension](https://marketplace.visualstudio.com/items?itemName=aspnet.blazor) from the Visual Studio Marketplace, or Visual Studio Code with the latest [C# extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) (now with Blazor support!)."
 
 
 
